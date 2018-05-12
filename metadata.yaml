@@ -1,0 +1,28 @@
+_repo: The-Long-PatrolA-Tale-of-the-Mounted-Police_45245
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45245-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Cody, H. A. (Hiram Alfred)
+    alias: Cody, Hiram Alfred
+    birthdate: 1872
+    deathdate: 1948
+    gutenberg_agent_id: '2694'
+    url: http://www.gutenberg.org/2009/agents/2694
+description: ''
+gutenberg_issued: '2014-03-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45245'
+  lccn: '12024063'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mounted police -- Fiction'
+- !lcc 'PS'
+title: 'The Long Patrol: A Tale of the Mounted Police'
+url: http://www.gutenberg.org/ebooks/45245
